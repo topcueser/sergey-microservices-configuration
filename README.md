@@ -1,0 +1,1 @@
+# sergey-microservices-configuration
